@@ -32,7 +32,7 @@ After running both the SMA and Logistic Regression models I was able to print th
 
 ![Logistical_Regression](https://github.com/beccabeastly/ML_trading_bot/blob/main/SVC_vs_logistic_regression.png)
 
-When adjusting the logistic Regression to 3 months the LR model became more accurate but still less accuarate than the SMA model.
+When adjusting the logistic Regression to 3 months the LR model had the same accuracy but still less accuarate than the SMA model.
 
 ![3_month_adjustment](https://github.com/beccabeastly/ML_trading_bot/blob/main/LR_3months.png)
 
