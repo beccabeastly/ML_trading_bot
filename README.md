@@ -1,5 +1,5 @@
 # Machine Learning Trading Algorithm
- In this program I used ML models (SVC and LogisticRegression) in order find the best accuracy for predicting the best trading stategies.
+ In this program I used ML models (SMA and LogisticRegression) in order find the best accuracy for predicting the best trading stategies.
 
 ---
 # Technologies
