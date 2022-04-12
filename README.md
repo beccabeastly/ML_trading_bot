@@ -28,7 +28,9 @@ utilize hvplot by including code `import hvplot.pandas` library
 ---
 
 # Code Footnotes
+After running both the SMA and Logistic Regression models I was able to print the prediciton tables. For the logistic regression model I adjusted the data from 3 months (SMA model) to 1 month. As shown below, this caused the model to be less accurate.
 
+(Logistical_Regression)[]!
 
 
 
