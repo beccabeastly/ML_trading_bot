@@ -30,14 +30,14 @@ utilize hvplot by including code `import hvplot.pandas` library
 # Code Footnotes
 After running both the SMA and Logistic Regression models I was able to print the prediciton tables. For the logistic regression model I adjusted the data from 3 months (SMA model) to 1 month. As shown below, this caused the model to be less accurate.
 
-(Logistical_Regression)[https://github.com/beccabeastly/ML_trading_bot/blob/main/SVC_vs_logistic_regression.png]!
+![Logistical_Regression](https://github.com/beccabeastly/ML_trading_bot/blob/main/SVC_vs_logistic_regression.png)
 
 When adjusting the logistic Regression to 3 months the LR model became more accurate but still less accuarate than the SMA model.
 
 (3_month_adjustment)[]!
 
 This graph shows the more accurate Logistic Regression model (3 months). 
-!(Returns)[https://github.com/beccabeastly/ML_trading_bot/blob/main/strategy_returns_vs_returns.png]
+![Returns](https://github.com/beccabeastly/ML_trading_bot/blob/main/strategy_returns_vs_returns.png)
 
 # Contributors
 [Email](beccabeastly@gmail.com)
