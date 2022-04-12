@@ -32,6 +32,10 @@ After running both the SMA and Logistic Regression models I was able to print th
 
 (Logistical_Regression)[]!
 
+When adjusting the logistic Regression to 3 months the LR model became more accurate but still less accuarate than the SMA model.
+
+(3_month_adjustment)[]!
+
 
 
 # Contributors
