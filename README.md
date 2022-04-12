@@ -1,12 +1,11 @@
-# ETF_Portfolio_Analysis
-In this project I utilized SQL to create data tables and analyze cumulative returns. There were four tables of data that made up the portolio that was analyzed. 
+# Machine Learning Trading Algorithm
+ In this program I used ML models (SVC and LogisticRegression) in order find the best accuracy for predicting the best trading stategies.
 
 ---
 # Technologies
 `Python`
 `Pandas`
 `Jupyter Lab`
-`Hvplot`
 
 ---
 
@@ -20,9 +19,9 @@ Install Hvplot here: use this link [Hvplot how to](https://pypi.org/project/hvpl
 
 **Or in gitbash** use `pip install hvplot`
 
-
-
 utilize hvplot by including code `import hvplot.pandas` library
+
+
 ---
 # license
 **Educational purposes**
