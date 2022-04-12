@@ -36,7 +36,8 @@ When adjusting the logistic Regression to 3 months the LR model became more accu
 
 (3_month_adjustment)[]!
 
-
+This graph shows the more accurate Logistic Regression model (3 months). 
+!(Returns)[https://github.com/beccabeastly/ML_trading_bot/blob/main/strategy_returns_vs_returns.png]
 
 # Contributors
 [Email](beccabeastly@gmail.com)
