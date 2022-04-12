@@ -34,7 +34,7 @@ After running both the SMA and Logistic Regression models I was able to print th
 
 When adjusting the logistic Regression to 3 months the LR model became more accurate but still less accuarate than the SMA model.
 
-(3_month_adjustment)[]!
+![3_month_adjustment](https://github.com/beccabeastly/ML_trading_bot/blob/main/LR_3months.png)
 
 This graph shows the more accurate Logistic Regression model (3 months). 
 ![Returns](https://github.com/beccabeastly/ML_trading_bot/blob/main/strategy_returns_vs_returns.png)
